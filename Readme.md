@@ -57,8 +57,11 @@ npm run dev
 
   <h2>📸 Output Screens</h2>
   <img src="https://github.com/user-attachments/assets/f54530de-7f5a-49a5-a44b-06d5d550e1e2" alt="App Screenshot 1">
+  <br>
   <img src="https://github.com/user-attachments/assets/d21b054f-27a3-4840-879b-33062668793a" alt="App Screenshot 2">
+  <br>
   <img src="https://github.com/user-attachments/assets/cd22a96b-c9c7-4333-8c78-dc0b47b65432" alt="App Screenshot 3">
+  <br>
 
 </body>
 </html>
