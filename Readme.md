@@ -8,6 +8,10 @@ project setup
    - npm init -y 
    - npm i express mongoose dotenv jsonwebtoken bcryptjs cookie-parser cloudinary socket.io 
    - npm i nodemon -D
-4. Create entry file index.js 
-5. Create a script for dev and make type"module"
-6. 
+4. Create entry file index.js for backend
+5. Install the Tailwind v3 and DaisyUi v4
+6. add the cloudinary key and mongodb uri
+7. Run the project
+   -do "npm start"
+   -for frontend/backend "npm run dev"
+   
