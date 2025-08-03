@@ -1,41 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Project Setup Guide</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 2rem;
-      background-color: #f7f7f7;
-      color: #333;
-    }
-    h1 {
-      color: #2563eb;
-    }
-    code {
-      background-color: #e2e8f0;
-      padding: 2px 6px;
-      border-radius: 4px;
-      font-size: 0.95rem;
-    }
-    pre {
-      background-color: #1e293b;
-      color: #e2e8f0;
-      padding: 1rem;
-      border-radius: 8px;
-      overflow-x: auto;
-    }
-    img {
-      margin-top: 1rem;
-      width: 100%;
-      max-width: 100%;
-      border-radius: 8px;
-      border: 1px solid #ccc;
-    }
-  </style>
-</head>
 <body>
 
   <h1>🚀 Project Setup Guide</h1>
