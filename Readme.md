@@ -14,6 +14,10 @@ project setup
 7. Run the project
    -do "npm start"
    -for frontend/backend "npm run dev"
+
+output:  
+   <img width="1908" height="908" alt="image" src="https://github.com/user-attachments/assets/f54530de-7f5a-49a5-a44b-06d5d550e1e2"/>
+   <img width="1908" height="908" alt="image" src="https://github.com/user-attachments/assets/d21b054f-27a3-4840-879b-33062668793a"/>
    <img width="1908" height="908" alt="image" src="https://github.com/user-attachments/assets/cd22a96b-c9c7-4333-8c78-dc0b47b65432" />
 
    
