@@ -14,4 +14,6 @@ project setup
 7. Run the project
    -do "npm start"
    -for frontend/backend "npm run dev"
+   <img width="1908" height="908" alt="image" src="https://github.com/user-attachments/assets/cd22a96b-c9c7-4333-8c78-dc0b47b65432" />
+
    
