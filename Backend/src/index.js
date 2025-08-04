@@ -15,9 +15,14 @@ const PORT = process.env.PORT || 5001;
 app.use(express.json({ limit: "10mb" }));
 app.use(express.urlencoded({ extended: true, limit: "10mb" }));
 
-// ✅ Fix 2: Enable cookies and cross-origin frontend access
+// ✅ Fix 2: Enable cookies and allow frontend access from localhost and Vercel
+const allowedOrigins = [
+  "http://localhost:5173",
+  "https://real-time-chat-app-gkh8.vercel.app"
+];
+
 app.use(cors({
-  origin: "http://localhost:5173",
+  origin: allowedOrigins,
   credentials: true,
 }));
 
@@ -32,3 +37,4 @@ server.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
   connectDB();
 });
+
