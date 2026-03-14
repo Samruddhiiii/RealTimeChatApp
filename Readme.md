@@ -3,7 +3,7 @@
 <body>
 
   <h1>🚀 Project Setup Guide</h1>
-
+   
   <h2>1. Create Project Structure</h2>
   <p>Create two folders: <code>Frontend</code> and <code>Backend</code>.</p>
 
