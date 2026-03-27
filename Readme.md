@@ -1,20 +1,43 @@
 <!DOCTYPE html>
 <html lang="en">
 <body>
- # Real-Time Chat App
-This is a social media website built using the MERN (MongoDB, Express.js, React, Node.js) stack.
-  
-## Features
-- User authentication (registration, login, logout)
-- Create, read, update, and delete posts
-- Like and comment on posts
+ # 💬 Real-Time Chat App (MERN Stack)
 
-## Technologies
+A full-stack social media / chat application built using the MERN stack (MongoDB, Express.js, React, Node.js). This app allows users to interact in real-time with posts, likes, comments, and authentication.
 
-- MongoDB
-- Express.js
-- React
+---
+
+## 🚀 Features
+
+- 🔐 User Authentication (Register, Login, Logout)
+- 📝 Create, Read, Update, Delete (CRUD) Posts
+- ❤️ Like and 💬 Comment on Posts
+- ☁️ Image Upload via Cloudinary
+- ⚡ Real-time communication using Socket.io
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+- React (Vite)
+- Tailwind CSS
+- DaisyUI
+
+**Backend**
 - Node.js
+- Express.js
+- MongoDB (Mongoose)
+
+**Other Tools**
+- JWT Authentication
+- Bcrypt.js (Password Hashing)
+- Cookie Parser
+- Cloudinary (Media Storage)
+- Socket.io (Real-time features)
+
+---
+
   
   <h1>🚀 Project Setup Guide</h1>
    
