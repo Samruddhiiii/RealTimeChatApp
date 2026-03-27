@@ -1,16 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
 <body>
-  <h1>Features</h1>
-  <p>User authentication (registration, login, logout)</p>
-  <p>Create, read, update, and delete message and many more</p>
-  <br>
-  <h1>Technologies</h1>
-  <p>MongoDB</p>
-  <p>Express.js</p>
-  <p>React</p>
-  <p>Node.js</p>
-  <br>
+ # Real-Time Chat App
+This is a social media website built using the MERN (MongoDB, Express.js, React, Node.js) stack.
+  
+## Features
+- User authentication (registration, login, logout)
+- Create, read, update, and delete posts
+- Like and comment on posts
+
+## Technologies
+
+- MongoDB
+- Express.js
+- React
+- Node.js
+  
   <h1>🚀 Project Setup Guide</h1>
    
   <h2>1. Create Project Structure</h2>
