@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <body>
- # 💬 Real-Time Chat App (MERN Stack)
+
+ ## 💬 Real-Time Chat App (MERN Stack)
 
 A full-stack social media / chat application built using the MERN stack (MongoDB, Express.js, React, Node.js). This app allows users to interact in real-time with posts, likes, comments, and authentication.
 
